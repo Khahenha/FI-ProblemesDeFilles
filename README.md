@@ -7,7 +7,7 @@ Vous suivez l’histoire d’une jeune femme dans sa quête désespérée qui es
 
 Cette fiction intéractive a été créée avec Twine.
 
-# Ressources 
+## Ressources 
 
 https://ensemble.aesio.fr/sites/default/files/2022-11/AESIO_CP_Endometriose_au_travail.pdf
 
@@ -25,5 +25,5 @@ https://www.inserm.fr/actualite/genre-et-sante-attention-cliches/
 
 https://theconversation.com/les-stereotypes-de-genre-nuisent-a-la-sante-des-femmes-et-des-hommes-88989
 
-# Contexte de développement 
+## Contexte de développement 
 Cette fiction a été développée dans le cadre du cours "Fiction Interactive" dispensé par Isaac Pante (SLI, Lettres, UNIL). 
