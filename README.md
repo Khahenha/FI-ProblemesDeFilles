@@ -1,7 +1,7 @@
 # FI-ProblemesDeFilles
 Vous suivez l’histoire d’une jeune femme dans sa quête désespérée qui est de découvrir la raison de ses intenses douleurs qui l’handicape dans sa vie privée et professionnelle. 
 
-![Illustration_sans_titre.pdf](https://github.com/Khahenha/FI-ProblemesDeFilles/files/14075899/Illustration_sans_titre.pdf)
+![https://www.base64decode.org/download/decoded-20240131110440-ehgem88he5jyrer1bfc68tncrxg9bk2d.pdf](https://github.com/Khahenha/FI-ProblemesDeFilles/files/14075899/Illustration_sans_titre.pdf)
 
 Cette fiction intéractive a été créée avec Twine.
 
